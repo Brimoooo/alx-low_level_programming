@@ -1,13 +1,12 @@
-#include <Mstidio.h>
-
+#include <stdio.h>
 /**
- * main - main function
+ * main - Entry point
  *
- * return: returning 0
- * /
-
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle);
-	return (0);
+char str[] = "Programming is like building a multilingual puzzle";
+puts(str);
+return (0);
 }
