@@ -3,7 +3,7 @@
  * main - print all the in lower case,followed by a new line,
  * excpet the q and the e letter
  *
- * Return : always zero when success.
+ * Return: always zero when success.
  */
 int main(void)
 {
