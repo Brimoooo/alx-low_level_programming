@@ -6,15 +6,6 @@
  */
 int main(void)
 {
-	int i;
-
-	i = 46;
-
-	while (i <= 57)
-	{
-		putchar(i);
-		i++;
-	}
-putchar('\n');
+	printf("0123456789\n");
 return (0);
 }
